@@ -2,7 +2,7 @@ const amqp = require("amqplib/callback_api");
 const axios = require("axios");
 const apiBase = require("./apiBase");
 
-amqp.connect("amqp://localhost", function async(error0, connection) {
+amqp.connect("amqp://20.71.208.82", function async(error0, connection) {
   if (error0) {
     throw error0;
   }
