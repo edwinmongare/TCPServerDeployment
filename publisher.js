@@ -1,6 +1,6 @@
 const amqp = require("amqplib/callback_api");
 const net = require("net");
-const port = 5000;
+const port = 7000;
 const host = "127.0.0.1";
 const apiBase = require("./apiBase");
 
