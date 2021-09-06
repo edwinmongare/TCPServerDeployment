@@ -1,0 +1,13 @@
+{
+  "name": "borehole-project",
+  "version": "1",
+  "main": "index.js",
+  "author": "edwinmongare",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.7.1",
+    "axios": "^0.21.1",
+    "nodemon": "^2.0.7",
+    "pm2": "^4.5.5"
+  }
+}
